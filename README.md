@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![sosuts's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosuts)](https://github.com/anuraghazra/github-readme-stats)
+![sosuts's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosuts&count_private=true&show_icons=true&theme=onedark)
 
 <!--
 **sosuts/sosuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
